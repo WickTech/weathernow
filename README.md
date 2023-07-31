@@ -3,10 +3,10 @@ A react weather app with geolocation and a search engine to get weather reports 
 
 ## Technology Used
 
-OpenWeatherMap API
-Node.js Package Mananger
-React.js Frontend
-Vercel Deployment
+- OpenWeatherMap API
+- Node.js as Backend
+- React.js as Frontend
+- Vercel for Deployment
 
 ## Live link
 https://weathernow-eta.vercel.app/
