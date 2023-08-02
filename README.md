@@ -10,3 +10,6 @@ A react weather app with geolocation and a search engine to get weather reports 
 
 ## Live link
 https://weathernow-eta.vercel.app/
+
+## Screenshot
+![WeatherNow](WeatherNow.png)
