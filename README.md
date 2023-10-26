@@ -13,3 +13,10 @@ https://weathernow-eta.vercel.app/
 
 ## Screenshot
 ![WeatherNow](WeatherNow.png)
+
+## How to Run
+- Clone or download the repo
+- In Terminal type
+1 - npm install
+2 - npm start
+starts the app in a local host.
