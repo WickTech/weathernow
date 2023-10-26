@@ -17,6 +17,6 @@ https://weathernow-eta.vercel.app/
 ## How to Run
 - Clone or download the repo
 - In Terminal type
-1 - npm install
-2 - npm start
+- 1.npm install
+- 2.npm start
 starts the app in a local host.
