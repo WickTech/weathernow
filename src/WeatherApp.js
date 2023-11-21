@@ -11,7 +11,7 @@ const WeatherApp = () => {
   const [weatherData, setWeatherData] = useState(null);
   const [tempUnit, setTempUnit] = useState('celsius'); // State to hold the selected temperature unit
   const [weatherIcon, setWeatherIcon] = useState('');
-  const [forecastData, setForecastData] = useState(null);
+  const [forecastData, setForecastData] = useState([]);
 
   useEffect(() => {
     const fetchData = async () => {
